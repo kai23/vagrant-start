@@ -25,3 +25,12 @@ En rajoutant la ligne suivante :
 ## Lancer vagrant
 
 en faisant un `vagrant up` dans le dossier
+
+## Lancer le projet
+
+1. Faire un `vagrant ssh` dans le dossier
+2. `cd /vagrant/projet`
+3. `node index.js`
+
+Puis ouvrir son navigateur sur `http://site.lo` 
+
