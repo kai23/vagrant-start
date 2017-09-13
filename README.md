@@ -24,7 +24,7 @@ En rajoutant la ligne suivante :
 
 ## Lancer vagrant
 
-en faisant un `vagrant up` dans le dossier
+en faisant un `vagrant up --provision` dans le dossier.
 
 ## Lancer le projet
 
